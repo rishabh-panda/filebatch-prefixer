@@ -33,7 +33,7 @@ This tool is ideal for:
    Place the files you want to rename in the folder `filebatch-prefixer/master_folder`.  
    *(Create this folder if it does not exist.)*
 2. **Run the Script**:  
-   Execute the script using the following command:
+   Execute the script using the following command:</br></br>
    ```bash
    python main.py
 3. **Output**:
@@ -44,9 +44,9 @@ This tool is ideal for:
 ## Example Use-Case: Organizing Monthly Reports
 Imagine you have a folder containing monthly reports with filenames like:
 
-- report_january.txt
-- report_february.txt
-- 230101_report_march.txt
+- ```report_january.txt```
+- ```report_february.txt```
+- ```230101_report_march.txt```
 
 You want to ensure all files have a consistent naming format with the latest date prefix. After running FileBatch Prefixer:
 
